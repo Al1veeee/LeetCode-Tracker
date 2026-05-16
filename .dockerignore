@@ -1,0 +1,12 @@
+.gradle
+.git
+.idea
+*.iml
+src
+build/classes
+build/kotlin
+build/libs
+build/tmp
+build/reports
+build/distributions
+!build/install/**
